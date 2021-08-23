@@ -22,5 +22,9 @@ class ViewController: UIViewController {
         myScrollView.contentSize = self.myImageView.bounds.size
         self.view.addSubview(myScrollView)
     }
+    
+    func newFunctionFromNewFeatureBranch() {
+        print("HEllo world!")
+    }
 }
 
