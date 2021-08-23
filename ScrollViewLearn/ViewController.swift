@@ -25,6 +25,8 @@ class ViewController: UIViewController {
     
     func newMasterFunc() {
         print("Some text!")
+    }
+    
     func newFunctionFromNewFeatureBranch() {
         print("HEllo world!")
     }
