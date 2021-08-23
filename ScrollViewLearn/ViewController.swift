@@ -33,6 +33,7 @@ class ViewController: UIViewController {
     
     func foo() {
         print("NEw")
+        print("New new")
         print("foo")
     }
 }
