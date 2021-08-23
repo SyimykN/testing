@@ -30,5 +30,9 @@ class ViewController: UIViewController {
     func newFunctionFromNewFeatureBranch() {
         print("HEllo world!")
     }
+    
+    func foo() {
+        print("foo")
+    }
 }
 
